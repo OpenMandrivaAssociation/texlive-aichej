@@ -1,3 +1,9 @@
+# revision 15878
+# category Package
+# catalog-ctan /biblio/bibtex/contrib/misc/aichej.bst
+# catalog-date 2008-08-16 20:32:59 +0200
+# catalog-license lppl
+# catalog-version undef
 Name:		texlive-aichej
 Version:	20080816
 Release:	1
@@ -35,6 +41,7 @@ style of the American Institute of Chemical Engineers Jounal
 #-----------------------------------------------------------------------
 %files
 %{_texmfdistdir}/bibtex/bst/aichej/aichej.bst
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -45,3 +52,5 @@ style of the American Institute of Chemical Engineers Jounal
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar bibtex %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}

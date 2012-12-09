@@ -43,3 +43,18 @@ style of the American Institute of Chemical Engineers Jounal
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar bibtex %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 20080816-2
++ Revision: 749153
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20080816-1
++ Revision: 717806
+- texlive-aichej
+- texlive-aichej
+- texlive-aichej
+- texlive-aichej
+- texlive-aichej
+

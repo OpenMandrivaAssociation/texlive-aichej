@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-aichej
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Bibliography style file for the AIChE Journal
 Group:		Publishing

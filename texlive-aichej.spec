@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-aichej
-Version:	20180303
-Release:	2
+Version:	20190228
+Release:	1
 Summary:	Bibliography style file for the AIChE Journal
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/misc/aichej.bst

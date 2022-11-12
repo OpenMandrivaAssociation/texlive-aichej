@@ -5,7 +5,7 @@ Summary:	Bibliography style file for the AIChE Journal
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/misc/aichej.bst
 License:	LPPL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aichej.r15878.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aichej.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg

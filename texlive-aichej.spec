@@ -1,6 +1,6 @@
 Name:		texlive-aichej
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Bibliography style file for the AIChE Journal
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/misc/aichej.bst

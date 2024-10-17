@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Bibliography style file for the AIChE Journal
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/misc/aichej.bst
+URL:		https://www.ctan.org/tex-archive/biblio/bibtex/contrib/misc/aichej.bst
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aichej.r%{version}.tar.xz
 BuildArch:	noarch
